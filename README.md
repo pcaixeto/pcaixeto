@@ -5,16 +5,15 @@
 [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://fernandakipper.com/)
 [![Gmail Badge](https://img.shields.io/badge/-pedro.mg.caixeta@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.mg.caixeta@gmail.com)](mailto:pedro.mg.caixeta@gmail.com)
 
-## My name is Fernanda Kipper
-(React JS | Next JS | Angular  | Javascript | HTML | CSS | Typescript | Java | Spring Boot ) 🚀
-- 👩‍💻 Software Enginner @[Itaú](https://www.itau.com.br/)
+## My name is Pedro Caixeta
+(Typescript | Next JS | NestJS | Javascript | HTML | CSS | Hasura | Jenkins | Docker | GCP ) 🚀
 - 🎓 Computer Science Student
-- 🎥 Tech content producer, I create programming tutorials on my [YouTube Channel](https://www.youtube.com/@kipperdev) and share informative content on my [Instagram](https://www.instagram.com/kipper.dev/).
+- 💡 Love the challenge of being a fullstack developer
 - 🌐 Passionate about web development
-- 💡 Love a good challenge
+
 
 <div align="left">
   
-[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pcaixeto&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+[![Caixeta top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pcaixeto&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
   
  </div>
