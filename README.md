@@ -14,6 +14,6 @@
 
 <div align="left">
   
-[![Caixeta top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pcaixeto&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+[![Caixeta top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pcaixeto&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
  </div>
