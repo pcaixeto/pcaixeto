@@ -14,6 +14,6 @@
 
 <div align="left">
   
-[![Caixeta top languages](my-github-readme-stats-q5p4ehekl-pcaixeto.vercel.app/api/top-langs/?username=pcaixeto&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Caixeta top languages](my-github-readme-stats-q5p4ehekl-pcaixeto.vercel.app/api/top-langs/?username=pcaixeto&theme=dracula)](https://github.com/pcaixeto)
   
  </div>
