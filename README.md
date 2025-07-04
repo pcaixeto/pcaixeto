@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-pedro.mg.caixeta@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.mg.caixeta@gmail.com)](mailto:pedro.mg.caixeta@gmail.com)
 
 ## My name is Pedro Caixeta
-(Typescript | Next JS | NestJS | Javascript | HTML | CSS | Hasura | Jenkins | Docker | GCP ) 🚀
+(Typescript | Mulesoft | NestJS | NextJS | Postman | Backstage |C# | Java | Python | PostgreSQL | NoSQL | Firebase | Axway | Google Cloud Platform (GCP) | AWS | Azure | Git | Github | Bitbucket | Jenkins | Jest)
 - 🎓 Computer Science Student
 - 💡 Love the challenge of being a fullstack developer
 - 🌐 Passionate about web development
